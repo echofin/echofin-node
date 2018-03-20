@@ -1,0 +1,37 @@
+{
+  "name": "echofin",
+  "version": "1.0.0",
+  "description": "Echofin API wrapper",
+  "keywords": [
+    "echofin",
+    "chatrooms",
+    "api"
+  ],
+  "homepage": "https://github.com/echofin/echofin-node",
+  "author": "echofin <support@echofin.com> (https://echofin.com/)",
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/echofin/echofin-node.git"
+  },
+  "bugs:": "https://github.com/echofin/echofin-node/issues",
+  "engines": {
+    "node": ">=4"
+  },
+  "main": "lib/echofin.js",
+  "devDependencies": {},
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "qs": "^6.5.1",
+    "request": "^2.85.0",
+    "safe-buffer": "^5.1.1",
+    "utils": "^0.3.1"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/echofin/echofin-node/issues"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
